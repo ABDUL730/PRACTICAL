@@ -10,7 +10,7 @@ public class rmstrong {
         if (isArmstrong(num)) {
             System.out.println(num + " is an Armstrong numberrr.");
         } else {
-            System.out.println(num + " is not an Armstrong number.");
+            System.out.println(num + " is not an Armstrong numberr.");
         }
     }
 
